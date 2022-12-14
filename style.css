@@ -47,10 +47,11 @@ a {
   text-decoration: none;
 }
 
-span#time {
+#time {
   color: #8FBCBB;
   font-size: 25pt;
   font-weight: lighter;
+  text-align: center;
 }
 
 li:hover {
